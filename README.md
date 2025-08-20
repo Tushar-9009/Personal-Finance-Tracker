@@ -1,4 +1,4 @@
-💰 Personal Finance Tracker (C++)
+#💰 Personal Finance Tracker (C++)
 
 📌 Overview
 
